@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "The Roblox OpenSource Initiative\n\u00b6\n\n\nA project dedicated to collecting, indexing, and organizing ROBLOX development tools, resources, and libraries.\n\n\nSubmissions\n\u00b6\n\n\nYou can submit a library for review through either through our \nCommunity Discord\n or via a pull request to our \nGitHub repository\n. For more information, see our \nsubmissions\n page.",
+            "title": "Home"
+        },
+        {
+            "location": "/#the-roblox-opensource-initiative",
+            "text": "A project dedicated to collecting, indexing, and organizing ROBLOX development tools, resources, and libraries.",
+            "title": "The Roblox OpenSource Initiative"
+        },
+        {
+            "location": "/#submissions",
+            "text": "You can submit a library for review through either through our  Community Discord  or via a pull request to our  GitHub repository . For more information, see our  submissions  page.",
+            "title": "Submissions"
+        }
+    ]
+}
